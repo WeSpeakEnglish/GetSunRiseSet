@@ -1,0 +1,7 @@
+I:\PROJECTS\stolb\From Coords\C#\GetSunRiseSet\GetSunRiseSet\GetSunRiseSet\bin\Debug\GetSunRiseSet.exe
+I:\PROJECTS\stolb\From Coords\C#\GetSunRiseSet\GetSunRiseSet\GetSunRiseSet\bin\Debug\GetSunRiseSet.pdb
+I:\PROJECTS\stolb\From Coords\C#\GetSunRiseSet\GetSunRiseSet\GetSunRiseSet\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\PROJECTS\stolb\From Coords\C#\GetSunRiseSet\GetSunRiseSet\GetSunRiseSet\obj\x86\Debug\GetSunRiseSet.exe
+I:\PROJECTS\stolb\From Coords\C#\GetSunRiseSet\GetSunRiseSet\GetSunRiseSet\obj\x86\Debug\GetSunRiseSet.pdb
+I:\PROJECTS\stolb\From Coords\C#\GetSunRiseSet\GetSunRiseSet\GetSunRiseSet\obj\x86\Debug\GetSunRiseSet.MainForm.resources
+I:\PROJECTS\stolb\From Coords\C#\GetSunRiseSet\GetSunRiseSet\GetSunRiseSet\obj\x86\Debug\GetSunRiseSet.csproj.GenerateResource.Cache
